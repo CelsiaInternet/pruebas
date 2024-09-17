@@ -104,7 +104,7 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 
 2.1. Elabore un diagrama de componentes de la aplicación. Debe cargar el archivo en la siguiente ruta del repositorio: `./assets/diagrama.png`
 
-- RTA
+- RTA:
   <img src="./assets/diagrama.png" alt="Diagrama" width="400">
 
   2.2. ¿Qué mecanismos de seguridad incluirías en la aplicación para garantizar la protección del acceso a los datos?
@@ -131,18 +131,18 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 
   3.2. Describe las siete capas del modelo OSI y menciona brevemente la función principal de cada una
 
-- RTA
+- RTA:
 
   3.3. Explica las diferencias entre los protocolos TCP y UDP. Dar un ejemplo de cuándo usarías cada uno?
 
--RTA
+- RTA:
 
-3.4. ¿Qué es una máscara de subred y cómo se utiliza para dividir una red en subredes más pequeñas?
+  3.4. ¿Qué es una máscara de subred y cómo se utiliza para dividir una red en subredes más pequeñas?
 
--RTA
+- RTA:
 
-3.5. ¿Puedes mencionar algunos protocolos de enrutamiento dinámico y explicar brevemente cómo funcionan?
+  3.5. ¿Puedes mencionar algunos protocolos de enrutamiento dinámico y explicar brevemente cómo funcionan?
 
--RTA
+- RTA:
 
 ### Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, capacidad de adaptabilidad y habilidad para resolver problemas.
